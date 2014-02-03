@@ -1,0 +1,23 @@
+{
+  "name": "cigem",
+  "version": "1.0.0",
+  "authors": [
+    "zhoulianyi <lianyzhou@gmail.com>"
+  ],
+  "description": "cigem jewelry website",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies" : {
+  	"bootstrap" : "3.0.0",
+  	"jquery" : "1.9.0",
+  	"1.3.0"
+  }
+}
