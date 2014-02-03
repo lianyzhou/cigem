@@ -1,0 +1,7 @@
+.project
+.tmp
+cigem
+node_modules
+app/bower_components
+
+
