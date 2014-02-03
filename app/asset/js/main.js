@@ -106,7 +106,6 @@
 		load();
 	}
 	function setMapIframeSrc() {
-		debugger;
 		$('#map_iframe').attr('src' , $('#map_iframe').attr('data-src'));
 	}
 	$(window).load(function() {

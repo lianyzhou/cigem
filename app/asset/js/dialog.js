@@ -24,7 +24,7 @@
 		};
 	}
 	function setCenter() {
-		var top = ($(window).height() - (ImagePic.height + 60 + 48)) / 2;
+		var top = ($(window).height() - (ImagePic + 60 + 48)) / 2;
 		$dialogdiv.css({
 			marginTop : top
 		});
